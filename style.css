@@ -1,0 +1,48 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+
+.header {
+    background-image: url("https://www.thespruce.com/thmb/qNfLkF73lNYAhX85qZMeIriK00o=/6611x0/filters:no_upscale():max_bytes(150000):strip_icc()/best-cut-flower-varieties-4152956-hero-d0d431664b5249b9bba8fdf1c41a88aa.jpg");
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.hero {
+    padding: 60px 100px;
+    line-height: 30px;
+}
+
+.hero h1 {
+    font-family: sans-serif;
+    line-height: 60px;
+}
+
+.hero p {
+    font-family: sans-serif;
+    font: 100px;
+}
+
+.btn:hover {
+    background-color: rgb(6, 6, 82);
+    color: white;
+}
+
+.card {
+    outline: none;
+    border: none;
+}
+
+.card-img-top {
+    width: 30%;
+
+}
+
+.container {
+    margin-top: 30px;
+}
